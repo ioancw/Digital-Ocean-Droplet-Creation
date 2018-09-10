@@ -24,7 +24,7 @@ sudo apt upgrade
 ### jupyter stuff
 certificates are installed to /root/.jupyter
 
-#### SSL stuff on mac
+### SSL stuff on mac
 SSL keys are stored here on macOS: /Users/USER/.ssh
 
 ### Github
