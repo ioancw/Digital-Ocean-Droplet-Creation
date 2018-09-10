@@ -26,3 +26,13 @@ certificates are installed to /root/.jupyter
 
 #### SSL stuff on mac
 SSL keys are stored here on macOS: /Users/USER/.ssh
+
+### Github
+
+git status
+git pull
+git fetch
+git clone https://github.com/xxxx/yyyyyy
+get add .
+git commit -m "bla bla bla"
+git push
